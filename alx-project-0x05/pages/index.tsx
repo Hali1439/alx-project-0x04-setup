@@ -48,7 +48,7 @@ export default function Home() {
                 pageRoute: "/counter-app",
               })
             }
-            buttonLabel="Contact us"
+            buttonLabel="Counter App"
             buttonBackgroundColor="orange"
           />
         </div>
